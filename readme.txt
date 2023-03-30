@@ -3,3 +3,4 @@ git is free.
 This text has been changed.
 I don't want to change this text.
 Creating a new branch is quick.
+This is dev branch changed.
